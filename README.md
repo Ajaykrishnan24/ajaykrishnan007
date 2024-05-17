@@ -24,7 +24,7 @@ Welcome to my GitHub universe! I'm Ajaykrishnan S, a Software Development Engine
 ## Side Quests 🌟
 
 - **Fake News Detection** 🕵️‍♂️
-  - [GitHub Repo](https://github.com/Ajaykrishnan24/Fake-News-Detection) 📂
+  - [GitHub Repo]([https://github.com/Ajaykrishnan24/Fake-News-Detection](https://github.com/Ajaykrishnan24)) 📂
   - Python, Machine Learning, Passive Aggressive Classifier 🤖
 
 ## Get in Touch 📞
